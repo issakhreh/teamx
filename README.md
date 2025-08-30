@@ -34,5 +34,5 @@ jobs:
     - name: Upload test results
       uses: actions/upload-artifact@v3
       with:
-        name: go-test-results
+        name: go-test-result
         path: coverage.out
