@@ -23,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: go mod tidy
 
-    - name: Run linter
+    - name: Run linte
       uses: golangci/golangci-lint-action@v3
       with:
         version: latest
