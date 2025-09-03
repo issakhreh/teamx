@@ -1,5 +1,5 @@
 # .github/workflows/go-ci.yml
-name: 🧪 Go CI Pipeline
+name: 🧪 Go CI Pipelin
 
 on:
   push:
