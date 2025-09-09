@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-test:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-la
 
     steps:
     - name: Checkout code
